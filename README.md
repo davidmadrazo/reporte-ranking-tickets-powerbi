@@ -11,4 +11,4 @@ El objetivo de este repositorio es calcular una serie de medidas para poder anal
 ![Dashboard ranking](imagen-dashbord-ranking.png)
 
 ## Archivo fuente
-[Descargar archivo fuente](Tractchun Reporte.pbix)
+[Descargar archivo fuente](Reporte.pbix)
